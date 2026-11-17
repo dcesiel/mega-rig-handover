@@ -77,3 +77,13 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+1. https://github.com/dcesiel/mega-rig-handover/issues/1 (§ 1)
+2. https://github.com/dcesiel/mega-rig-handover/issues/2 (§ 2a)
+3. https://github.com/dcesiel/mega-rig-handover/issues/3 (§ 2b)
+4. https://github.com/dcesiel/mega-rig-handover/issues/4 (§ 2c)
+5. https://github.com/dcesiel/mega-rig-handover/issues/5 (§ 2d)
+6. https://github.com/dcesiel/mega-rig-handover/issues/6 (§ 3)
+7. https://github.com/dcesiel/mega-rig-handover/issues/7 (§ 4)
